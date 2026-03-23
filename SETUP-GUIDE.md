@@ -42,8 +42,8 @@ After purchase, download the installer for your computer:
 6. A Terminal window will open — this is normal!
 
 **Can't open it?**
-→ Go to System Preferences → Security & Privacy
-→ Click "Open Anyway" next to the SquadOps message
+→ Go to System Settings → Privacy & Security
+→ Scroll down and click "Open Anyway" next to the SquadOps message
 
 ### On Windows
 
